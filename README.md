@@ -1,7 +1,6 @@
 
 # HALA, I'm ABDULLA! 👋
 
-![Header Image or GIF](https://your-image-url.com) <!-- You can use a catchy header image or a GIF -->
 
 ## 🚀 About Me
 
