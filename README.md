@@ -29,7 +29,3 @@
 - **BS in Data Science and Applications** at IIT Madras
 - **Undergoing relevant Coursework**: Machine Learning Foundations, Data Structures, Algorithms, Web Development, Database Systems
 ---
-
-**"Fueled by coffee ☕ and passion for code, I'm on a journey to turn data into knowledge and ideas into reality. Let's innovate together!"**
-
----
